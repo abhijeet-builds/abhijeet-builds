@@ -1,107 +1,49 @@
 <div align="center">
 
 # Abhijeet Verma
-### Full Stack Engineer · React · Java · Spring Boot
 
-*Building production-grade web applications at enterprise scale*
+Software Engineer · Full Stack · React · Java · Node.js
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xx-abhijeet-xx/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijeet-verma.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vabhijeet23@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=xx-abhijeet-xx&color=0e75b6&style=for-the-badge)
+[abhijeetbuilds.netlify.app](https://abhijeetbuilds.netlify.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/abhijeet-verma-dev) &nbsp;·&nbsp; [contact.abhijeetverma@gmail.com](mailto:contact.abhijeetverma@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+Software Engineer at **LTIMindtree** building production full-stack systems — React frontends, Spring Boot APIs, MySQL/PostgreSQL persistence. Shipped optimisations that cut page load time by ~25% and reduced support tickets by ~30% on a live banking platform.
 
-Full Stack Engineer at **LTIMindtree**, working on high-traffic banking platforms for enterprise clients.
-I specialize in modernizing legacy systems into scalable, production-ready React + Spring Boot architectures.
+Outside work I design and build things end-to-end. Currently exploring AWS, Microservices, and System Design at scale.
 
-- 🏦 Currently building **enterprise banking platforms** @ LTIMindtree
-- ⚡ ~25% frontend load time improvement achieved through performance optimization
-- 🔧 Strong in **clean architecture**, production debugging, and maintainable code
-- 🌱 Exploring **System Design**, **Microservices**, and **Cloud (AWS)**
-- 💼 Open to **SDE / Full Stack roles** at product-focused companies
+Open to **SDE / Full Stack / Backend roles** — Remote, Pune, Bangalore, Hyderabad.
 
 ---
 
-## 🛠️ Tech Stack
+**Chymera** &nbsp;·&nbsp; [live](https://abhijeetbuilds.netlify.app) &nbsp;·&nbsp; [frontend](https://github.com/xx-abhijeet-xx/chymera-ai) &nbsp;·&nbsp; [backend](https://github.com/xx-abhijeet-xx/chymera-ai-api)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Full-stack AI chat — intent classifier routing messages across Groq (Llama 3.3 70B, Qwen QwQ 32B) and Gemini 2.5 Flash, real-time SSE streaming, semantic memory via Mem0, Supabase auth with row-level security, API key rotation with 429 retry, and a shared `lib/aiCore.js` eliminating dual-codebase drift between Express and Netlify serverless. Jest test suite with CI coverage script.
 
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Database & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`React 18` `Node.js` `Express` `Supabase` `Groq` `Gemini` `Mem0` `Tavily` `SSE` `JWT` `Jest`
 
 ---
 
-## 🚀 Featured Projects
+**Portfolio** &nbsp;·&nbsp; [abhijeetbuilds.netlify.app](https://abhijeetbuilds.netlify.app)
 
-### 🏦 Banking Platform Consolidation *(LTIMindtree — Production)*
-> Consolidated multiple legacy banking portals into a unified React + Spring Boot platform
-- Built complex data tables with export functionality handling large datasets
-- Integrated REST APIs and automated email notification systems
-- Achieved ~25% reduction in page load time through frontend optimization
-- Resolved critical cross-browser production issues improving system stability
-- **Tech:** React · Redux · Java · Spring Boot · REST APIs · MySQL
+Three.js starfield hero, AI recruiter chatbot on Groq/Gemini, gravity skill particle system, dark/light mode.
+
+`React` `Three.js` `GSAP` `TailwindCSS`
 
 ---
 
-### 🌐 [Portfolio Website](https://abhijeet-verma.vercel.app/)
-> Personal portfolio showcasing projects and skills
-- **Tech:** React · CSS · Vercel
+**NexChat** &nbsp;·&nbsp; [repo](https://github.com/xx-abhijeet-xx/nexchat-realtime)
 
----
+Real-time chat — custom WebSocket server, Redis pub/sub, Prisma + PostgreSQL, JWT auth, friend and presence system.
 
-### 🎨 [Jomor Design](https://github.com/xx-abhijeet-xx/Jomor-Design)
-> Creative frontend design with smooth animations
-- **Tech:** GSAP · Locomotive Scroll · CSS · JavaScript
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xx-abhijeet-xx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xx-abhijeet-xx&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xx-abhijeet-xx&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xx-abhijeet-xx&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+`Next.js` `TypeScript` `WebSockets` `Redis` `PostgreSQL` `Prisma`
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect
-*Open to SDE / Full Stack roles at product-focused companies building scalable systems*
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xx-abhijeet-xx/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xx-abhijeet-xx&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
