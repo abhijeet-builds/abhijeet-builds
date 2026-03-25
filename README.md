@@ -18,7 +18,7 @@ Open to **SDE / Full Stack / Backend roles** — Remote, Pune, Bangalore, Hydera
 
 ---
 
-**Chymera** &nbsp;·&nbsp; [live](https://abhijeetbuilds.netlify.app) &nbsp;·&nbsp; [frontend](https://github.com/xx-abhijeet-xx/chymera-ai) &nbsp;·&nbsp; [backend](https://github.com/xx-abhijeet-xx/chymera-ai-api)
+**Chymera** &nbsp;·&nbsp; [live](https://chymera.netlify.app/) &nbsp;·&nbsp; [frontend](https://github.com/xx-abhijeet-xx/chymera-ai) &nbsp;·&nbsp; [backend](https://github.com/xx-abhijeet-xx/chymera-ai-api)
 
 Full-stack AI chat — intent classifier routing messages across Groq (Llama 3.3 70B, Qwen QwQ 32B) and Gemini 2.5 Flash, real-time SSE streaming, semantic memory via Mem0, Supabase auth with row-level security, API key rotation with 429 retry, and a shared `lib/aiCore.js` eliminating dual-codebase drift between Express and Netlify serverless. Jest test suite with CI coverage script.
 
@@ -26,7 +26,7 @@ Full-stack AI chat — intent classifier routing messages across Groq (Llama 3.3
 
 ---
 
-**Portfolio** &nbsp;·&nbsp; [abhijeetbuilds.netlify.app](https://abhijeetbuilds.netlify.app)
+**Portfolio** &nbsp;·&nbsp; [live](https://abhijeetbuilds.netlify.app)
 
 Three.js starfield hero, AI recruiter chatbot on Groq/Gemini, gravity skill particle system, dark/light mode.
 
