@@ -18,7 +18,7 @@ Open to **SDE / Full Stack / Backend roles** — Remote, Pune, Bangalore, Hydera
 
 ---
 
-**Chymera** &nbsp;·&nbsp; [live](https://chymera.netlify.app/) &nbsp;·&nbsp; [frontend](https://github.com/xx-abhijeet-xx/chymera-ai) &nbsp;·&nbsp; [backend](https://github.com/xx-abhijeet-xx/chymera-ai-api)
+**Chymera** &nbsp;·&nbsp; [live](https://chymera.netlify.app/) &nbsp;·&nbsp; [frontend](https://github.com/abhijeet-builds/chymera-ai) &nbsp;·&nbsp; [backend](https://github.com/abhijeet-builds/chymera-ai-api)
 
 Full-stack AI chat — intent classifier routing messages across Groq (Llama 3.3 70B, Qwen QwQ 32B) and Gemini 2.5 Flash, real-time SSE streaming, semantic memory via Mem0, Supabase auth with row-level security, API key rotation with 429 retry, and a shared `lib/aiCore.js` eliminating dual-codebase drift between Express and Netlify serverless. Jest test suite with CI coverage script.
 
@@ -34,7 +34,7 @@ Three.js starfield hero, AI recruiter chatbot on Groq/Gemini, gravity skill part
 
 ---
 
-**NexChat** &nbsp;·&nbsp; [repo](https://github.com/xx-abhijeet-xx/nexchat-realtime)
+**NexChat** &nbsp;·&nbsp; [repo](https://github.com/abhijeet-builds/nexchat-realtime)
 
 Real-time chat — custom WebSocket server, Redis pub/sub, Prisma + PostgreSQL, JWT auth, friend and presence system.
 
@@ -44,6 +44,6 @@ Real-time chat — custom WebSocket server, Redis pub/sub, Prisma + PostgreSQL, 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xx-abhijeet-xx&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-builds&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
